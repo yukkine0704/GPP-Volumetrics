@@ -1,7 +1,7 @@
 # GPP Volumetrics
 *True Volumetric clouds & new atmospheres for GPP*
 
-![image](https://imgur.com/a/WATxv7J)
+![image](https://i.imgur.com/hBpO42n.png)
 
 
 ### DEPENDENCIES
