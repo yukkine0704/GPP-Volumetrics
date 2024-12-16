@@ -6,7 +6,7 @@
 
 ### DEPENDENCIES
 
-- [JNSQ](https://github.com/Galileo88/Galileos-Planet-Pack)
+- [GPP](https://github.com/Galileo88/Galileos-Planet-Pack)
 - [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
 - [EVE Release 4 & Scatterer](https://www.patreon.com/blackrack)
 
@@ -16,7 +16,7 @@
 - Install GPP and it's dependencies.
 - Download Environmental Visual Enhancements and Scatterer from blackrack's Patreon.
 - Drop EnvironmentalVisualEnhancements, Scatterer, StockScattererConfigs and StockVolumetricClouds into GameData.
-- Drop JNSQVolumetrics into GameData.
+- Drop zip content into GPP folder, replace if needed.
 - Have fun!
 
 
