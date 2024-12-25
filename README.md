@@ -24,6 +24,4 @@
 
 
 
--  [Otho flowmaps](https://github.com/OneSaltyPringle/OPM-VolumetricClouds)
 -  [Gauss clouds](https://github.com/rbeap0/JNSQVolumetrics)
--  [Gratian Atmo](https://github.com/ballisticfox/BeyondHomePlanetMod)
