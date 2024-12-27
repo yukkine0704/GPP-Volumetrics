@@ -27,3 +27,4 @@
 
 -  [Gauss clouds](https://github.com/rbeap0/JNSQVolumetrics)
 -  [Kerbin atmo from Spectra ](https://forum.kerbalspaceprogram.com/topic/159443-1123-spectra-visual-compilation-162-horizons-26th-july-2022/)
+-  [Custom cloud textures](https://forum.kerbalspaceprogram.com/topic/214900-infinite-discoveries-099-112x/)
