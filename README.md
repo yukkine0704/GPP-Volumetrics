@@ -17,7 +17,7 @@
 - Install GPP_Clouds extra, high or low res, and delete GPPClouds_HighRes.cfg file
 - Download Environmental Visual Enhancements and Scatterer from blackrack's Patreon.
 - Drop EnvironmentalVisualEnhancements, Scatterer, StockScattererConfigs and StockVolumetricClouds into GameData.
-- Drop zip content into GPP folder, replace if needed.
+- Drop zip content into game folder, replace if needed.
 - Have fun!
 
 
@@ -28,3 +28,4 @@
 -  [Gauss clouds](https://github.com/rbeap0/JNSQVolumetrics)
 -  [Kerbin atmo from Spectra ](https://forum.kerbalspaceprogram.com/topic/159443-1123-spectra-visual-compilation-162-horizons-26th-july-2022/)
 -  [Custom cloud textures](https://forum.kerbalspaceprogram.com/topic/214900-infinite-discoveries-099-112x/)
+-  [Kerbin seasonal clouds and Tarsiss clouds](https://www.deviantart.com/greaterhtrae)
