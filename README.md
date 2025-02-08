@@ -26,4 +26,3 @@ Make sure to download this correctly:
 -  [Kerbin atmo from Spectra ](https://forum.kerbalspaceprogram.com/topic/159443-1123-spectra-visual-compilation-162-horizons-26th-july-2022/)
 -  [Clouds1 and Clouds3 textures and coverage maps ](https://forum.kerbalspaceprogram.com/topic/214900-infinite-discoveries-099-112x/)
 -  [Tarsiss clouds textures, Tellumo storms and low clouds textures, Gael seasonal clouds textures, Hadrian color map](https://www.deviantart.com/greaterhtrae)
--  [Catullus color map texture ](https://www.deviantart.com/planetmapmaker)
