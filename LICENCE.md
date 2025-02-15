@@ -2,6 +2,10 @@
 
 This project incorporates code and/or assets from rbeap [JNSQVolumetrics](https://github.com/rbeap0/JNSQVolumetrics), which is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
+This project also incorporates assets from [Kerbal Star Systems 2 ](https://github.com/StarCrusher96/Kerbal-Star-Systems-2)  by StarCrusher96, which is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). These assets *cannot* be modified or adapted in any way.  I am distributing them as-is.
+
+
+
 # License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
