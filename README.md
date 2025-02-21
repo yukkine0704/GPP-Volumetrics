@@ -12,7 +12,7 @@ Make sure to download this correctly:
 
 ### INSTALLATION
 
-- After installing GPP, install GPP_Clouds extra, high or low res, and delete GPPClouds_HighRes.cfg file
+- After installing GPP, install GPP_Clouds extra, high or low res, and delete GPPClouds_HighRes.cfg file and the GPP\GPP_Scatterer\Sunflares folder
 - Download and install Environmental Visual Enhancements and Scatterer from blackrack's Patreon.
 - Drop zip content into Gamedata folder, replace if needed.
 - Done!
