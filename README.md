@@ -8,7 +8,7 @@
 Make sure to download this correctly:
 
 - [GPP](https://github.com/Galileo88/Galileos-Planet-Pack)
-- [EVE Release 4 & Scatterer (paid)](https://www.patreon.com/blackrack)
+- [EVE Release 5 & Scatterer (paid)](https://www.patreon.com/blackrack)
 
 ### INSTALLATION
 
